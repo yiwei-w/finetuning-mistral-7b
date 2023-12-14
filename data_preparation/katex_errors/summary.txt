@@ -1,0 +1,98 @@
+33227 occurrences of error: KaTeX parse error: Can't use function '$' in math mode
+15034 occurrences of error: KaTeX parse error: \tag works only in display equations
+3946 occurrences of error: KaTeX parse error: Invalid delimiter type 'ordgroup'
+920 occurrences of error: KaTeX parse error: Expected group after '_'
+341 occurrences of error: KaTeX parse error: Expected group as argument to '\.'
+294 occurrences of error: KaTeX parse error: {split} can be used only in display mode.
+237 occurrences of error: KaTeX parse error: Undefined control sequence: \title
+113 occurrences of error: KaTeX parse error: Got function '$' with no arguments as subscript
+101 occurrences of error: KaTeX parse error: Double subscript
+99 occurrences of error: KaTeX parse error: Expected 'EOF', got '&'
+80 occurrences of error: KaTeX parse error: Can't use function '\includegraphics' in text mode
+72 occurrences of error: KaTeX parse error: Undefined control sequence: \eqalign
+70 occurrences of error: KaTeX parse error: Undefined control sequence: \section
+69 occurrences of error: KaTeX parse error: Undefined control sequence: \pmatrix
+62 occurrences of error: KaTeX parse error: Undefined control sequence: \footnotetext
+41 occurrences of error: KaTeX parse error: Undefined control sequence: \boldmath
+37 occurrences of error: KaTeX parse error: No such environment: table
+36 occurrences of error: KaTeX parse error: Undefined control sequence: \subsection
+35 occurrences of error: KaTeX parse error: No such environment: tabular
+35 occurrences of error: KaTeX parse error: Got group of unknown type: 'internal'
+34 occurrences of error: KaTeX parse error: Undefined control sequence: \mathds
+33 occurrences of error: KaTeX parse error: Undefined control sequence: \subsubsection
+31 occurrences of error: KaTeX parse error: Got function '$' with no arguments as argument to '\.'
+28 occurrences of error: KaTeX parse error: Expected 'EOF', got '\right'
+24 occurrences of error: KaTeX parse error: Unknown column alignment: [
+22 occurrences of error: KaTeX parse error: Expected 'EOF', got '}'
+15 occurrences of error: KaTeX parse error: Undefined control sequence: \framebox
+13 occurrences of error: KaTeX parse error: Undefined control sequence: \cases
+13 occurrences of error: KaTeX parse error: Unexpected end of input in a macro argument, expected '}' at end of input
+12 occurrences of error: KaTeX parse error: Expected '\right', got 'EOF' at end of input
+11 occurrences of error: KaTeX parse error: Undefined control sequence: \scalebox
+10 occurrences of error: KaTeX parse error: Undefined control sequence: \vbox
+10 occurrences of error: KaTeX parse error: Can't use function '\rule' in text mode
+10 occurrences of error: KaTeX parse error: Undefined control sequence: \sc
+9 occurrences of error: KaTeX parse error: Undefined control sequence: \epsfbox
+9 occurrences of error: KaTeX parse error: Undefined control sequence: \tr
+8 occurrences of error: KaTeX parse error: Undefined control sequence: \rme
+7 occurrences of error: KaTeX parse error: Expected 'EOF', got '#'
+7 occurrences of error: KaTeX parse error: Undefined control sequence: \myfont
+6 occurrences of error: KaTeX parse error: Invalid key: 'scale' in \includegraphics.
+6 occurrences of error: KaTeX parse error: Expected '}', got 'EOF' at end of input
+6 occurrences of error: KaTeX parse error: Undefined control sequence: \eqalignno
+5 occurrences of error: KaTeX parse error: Undefined control sequence: \matrix
+5 occurrences of error: KaTeX parse error: Undefined control sequence: \Tr
+4 occurrences of error: KaTeX parse error: Undefined control sequence: \parbox
+4 occurrences of error: KaTeX parse error: Undefined control sequence: \author
+4 occurrences of error: KaTeX parse error: Undefined control sequence: \tenbf
+4 occurrences of error: KaTeX parse error: Double superscript
+4 occurrences of error: KaTeX parse error: Undefined control sequence: \tikzfig
+4 occurrences of error: KaTeX parse error: Can't use function '\overline' in text mode
+4 occurrences of error: KaTeX parse error: Got function '\end' with no arguments as argument to '\.'
+3 occurrences of error: KaTeX parse error: Undefined control sequence: \raise
+3 occurrences of error: KaTeX parse error: Undefined control sequence: \goth
+3 occurrences of error: KaTeX parse error: Expected & or \\ or \cr or \end at end of input
+3 occurrences of error: KaTeX parse error: Expected '}', got '\right'
+2 occurrences of error: KaTeX parse error: No such environment: abstract
+2 occurrences of error: KaTeX parse error: Expected 'EOF', got '\end'
+2 occurrences of error: KaTeX parse error: Undefined control sequence: \contraction
+2 occurrences of error: KaTeX parse error: Undefined control sequence: \nicefrac
+2 occurrences of error: KaTeX parse error: Undefined control sequence: \Uppsi
+2 occurrences of error: KaTeX parse error: Undefined control sequence: \mycal
+2 occurrences of error: KaTeX parse error: Undefined control sequence: \textsc
+2 occurrences of error: KaTeX parse error: Undefined control sequence: \n
+2 occurrences of error: KaTeX parse error: Undefined control sequence: \upsigma
+2 occurrences of error: KaTeX parse error: Undefined control sequence: \i
+2 occurrences of error: KaTeX parse error: Undefined control sequence: \Gamma
+2 occurrences of error: KaTeX parse error: Undefined control sequence: \cdotq
+2 occurrences of error: KaTeX parse error: Undefined control sequence: \tensor
+2 occurrences of error: KaTeX parse error: Undefined control sequence: \-
+2 occurrences of error: KaTeX parse error: Undefined control sequence: \iiintint
+2 occurrences of error: KaTeX parse error: Undefined control sequence: \uphbar
+1 occurrences of error: KaTeX parse error: Undefined control sequence: \omit
+1 occurrences of error: KaTeX parse error: Undefined control sequence: \lower
+1 occurrences of error: KaTeX parse error: Undefined control sequence: \emph
+1 occurrences of error: KaTeX parse error: Expected 'EOF', got '_'
+1 occurrences of error: KaTeX parse error: Undefined control sequence: \sideset
+1 occurrences of error: KaTeX parse error: Undefined control sequence: \openone
+1 occurrences of error: KaTeX parse error: Undefined control sequence: \vrule
+1 occurrences of error: KaTeX parse error: Undefined control sequence: \psfig
+1 occurrences of error: KaTeX parse error: Can't use function '\mathbf' in text mode
+1 occurrences of error: KaTeX parse error: Undefined control sequence: \U
+1 occurrences of error: KaTeX parse error: Expected '\right', got 'EOF'
+1 occurrences of error: KaTeX parse error: Undefined control sequence: \M
+1 occurrences of error: KaTeX parse error: Undefined control sequence: \where
+1 occurrences of error: KaTeX parse error: Undefined control sequence: \Then
+1 occurrences of error: KaTeX parse error: Expected '$', got 'EOF'
+1 occurrences of error: KaTeX parse error: Undefined control sequence: \h
+1 occurrences of error: KaTeX parse error: Undefined control sequence: \In
+1 occurrences of error: KaTeX parse error: Undefined control sequence: \ref
+1 occurrences of error: KaTeX parse error: Undefined control sequence: \mathpzc
+1 occurrences of error: KaTeX parse error: Undefined control sequence: \Of
+1 occurrences of error: KaTeX parse error: Undefined control sequence: \upalpha
+1 occurrences of error: KaTeX parse error: Undefined control sequence: \eqrightharpoonup
+1 occurrences of error: KaTeX parse error: Too many expansions: infinite loop or need to increase maxExpand setting
+1 occurrences of error: KaTeX parse error: Unexpected end of input in a macro argument, expected ']' at end of input
+1 occurrences of error: KaTeX parse error: Got function '\right' with no arguments as argument to '\.'
+1 occurrences of error: KaTeX parse error: Expected & or \\ or \cr or \end
+1 occurrences of error: KaTeX parse error: Undefined control sequence: \gammaor

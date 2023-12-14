@@ -1,0 +1,1 @@
+Solve the following problem from a Quantum Field Theory textbook. Below is some background knowledge of the mathematical conventions and key results that may be useful for solving the problem. Feel free to use the results, theorems, and equations from the background section in your solution. When working on your solution, think step by step.
