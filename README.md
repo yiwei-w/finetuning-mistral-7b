@@ -20,10 +20,10 @@ The `eval/` folder contains several scripts and files for evaluation:
 - `gpt_eval_script.py`: This script is used to gather GPT-3.5's solutions to the questions in the benchmark. It takes the problem and background pair from the evaluation dataset, format them into the proper prompt, and then generate the solutions with OpenAI's API. The results are saved to a `.json` file.
 - `gpt_system_prompt.txt`: This file contains the system message appended to the beginning of every conversation with GPT-3.5.
 - `system_prompt.txt`: This file contains the zero-shot CoT instructions to solve QFT problems using background knowledge for both Mistral 7B and GPT-3.5.
-- `compute_bertscore.py`: This script is used to compute the BERTScore (F1, recall, precision) using `allenai/longformer-large-4096-finetuned-triviaqa` model.
+- `compute_bertscore.py`: This script is used to compute the BERTScore (F1, recall, precision) using [allenai/longformer-large-4096-finetuned-triviaqa](https://huggingface.co/allenai/longformer-large-4096-finetuned-triviaqa) model.
 - `compute_ROUGE.py`: This script is used to compute the ROUGE-L, ROUGE-1, and ROUGE-2 scores with Mistral tokenizer.
 - `compute_voyage_embedding`: This script is used to compute the and save the document-level embeddings based on `voyage-lite-01-instruct` model.
-- `compute_jina_embedding`: This script is used to compute and save the document-level embeddings based on `jinaai/jina-embeddings-v2-base-en` model.
+- `compute_jina_embedding`: This script is used to compute and save the document-level embeddings based on [jinaai/jina-embeddings-v2-base-en](https://huggingface.co/jinaai/jina-embeddings-v2-base-en) model.
 - `verify_jina.py`: This script is used to calculate the average cosine similarity for Jina embeddings locally.
 - `verify_voyage.py`: This script is used to calculate the average cosine similarity for Voyage embeddings locally.
 
